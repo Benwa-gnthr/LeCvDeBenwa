@@ -327,7 +327,7 @@ fieldset{
 
 .contact_text{
     text-align: center;    
-    width: 50%;
+    width: 50vw;
     margin: 10px;
 }
 
@@ -354,8 +354,8 @@ fieldset{
 
 
 #button{
-    width: 60%;
-    gap: 10px;
+    width: 600px;
+    gap: 5px;
     display: flex;
     justify-content: space-around;
 }   
