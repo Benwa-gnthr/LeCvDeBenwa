@@ -75,19 +75,24 @@
         <div id="pro_list">
             
             <div class="pro1" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <h4 class="annee">2022 :</h4>Equipier en Zone de Retrait de Marchandise au Castorama d'Olivet
+                <h4 class="annee">2022 :</h4>
+                Equipier en Zone de Retrait de Marchandise au Castorama d'Olivet
             </div>
             <div class="pro2" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <h4 class="annee">2022 :</h4> Manutentionnaire en intérim à Movianto France à Saint-Cyr-en-Val.
+                <h4 class="annee">2022 :</h4> 
+                Manutentionnaire en intérim à Movianto France à Saint-Cyr-en-Val.
             </div>
             <div class="pro3" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <h4 class="annee">2021 :</h4> Conseiller de vente en plomberie chauffage au Castorama d'Olivet.
+                <h4 class="annee">2021 :</h4> 
+                Conseiller de vente en plomberie chauffage au Castorama d'Olivet.
             </div>
             <div class="pro4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <h4 class="annee">2021 :</h4> Manutentionnaire en intérim au Castorama Olivet.
+                <h4 class="annee">2021 :</h4> 
+                Manutentionnaire en intérim au Castorama Olivet.
             </div>
             <div class="pro5" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <h4 class="annee">2018 / 2020:</h4> Reserviste dans l'armée de l'air à la base de Romorantin-Lanthenay.
+                <h4 class="annee">2018 / 2020:</h4> 
+                Reserviste dans l'armée de l'air à la base de Romorantin-Lanthenay.
             </div>
 
         </div>
@@ -98,10 +103,22 @@
 <br>
 
         <div id="scolar_list">
-            <div class="scolar1" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000"><h4 class="annee">Juillet 2023 à "maintenant":</h4> Formation Developpeur Web et Web Mobile, à l'AFPA d'Olivet</div>
-            <div class="scolar2" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000"><h4 class="annee">Septembre-Décembre 2022:</h4> Formation Préparatoire aux metiers du numérique, à l'AFPA d'Olivet.</div>
-            <div class="scolar3" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000"><h4 class="annee">Année scolaire 2021-2022:</h4> L1: Chimie, Physique, Science de la Terre, à l'université d'Orléans.</div>
-            <div class="scolar4" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000"><h4 class="annee">Année scolaire 2019-2020:</h4> Baccalauréat Scientifique, au lycée Claude de France de Romorantin-Lanthenay.</div>
+            <div class="scolar1" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000">
+                <h4 class="annee">Juillet 2023 à "maintenant":</h4> 
+                Formation Developpeur Web et Web Mobile, à l'AFPA d'Olivet
+            </div>
+            <div class="scolar2" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000">
+                <h4 class="annee">Septembre-Décembre 2022:</h4> 
+                Formation Préparatoire aux metiers du numérique, à l'AFPA d'Olivet.
+            </div>
+            <div class="scolar3" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000">
+                <h4 class="annee">Année scolaire 2021-2022:</h4> 
+                L1: Chimie, Physique, Science de la Terre, à l'université d'Orléans.
+            </div>
+            <div class="scolar4" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000">
+                <h4 class="annee">Année scolaire 2019-2020:</h4> 
+                Baccalauréat Scientifique, au lycée Claude de France de Romorantin-Lanthenay.
+            </div>
         </div>
 
         <span id="portfolio"></span>
@@ -110,35 +127,13 @@
             <h1 class="title">Portfolio</h1>
     </div>
 <br>
-        <div class="portfolio" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000">
-            <div id="card-container">
-                <div class="card">
-                    <div class="front-card"><h3>Certains</h3></div>
-                    <div class="back-card card1">
-                        <button class="port-btn"><a href="https://github.com/Benwa-gnthr/Calculatrice">Acceder au projet</a></button>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="front-card"><h3>De</h3></div>
-                    <div class="back-card card2">
-                        <button class="port-btn"><a href="https://github.com/Benwa-gnthr/GuessTheNumber">Acceder au projet</a></button>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="front-card"><h3>Mes</h3></div>
-                    <div class="back-card card3">
-                        <button class="port-btn"><a href="https://github.com/Benwa-gnthr/Exercice_PHP/tree/main/Ex_171023/Ex_Base_PHP">Acceder au projet</a></button>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="front-card"><h3>Travaux</h3></div>
-                    <div class="back-card card4">
-                        <button class="port-btn"><a href="https://github.com/Benwa-gnthr/Exercice_PHP/tree/main/TP_261023">Acceder au projet</a></button>
-                    </div>
-                </div>
-            </div>        
+        <div id="container_port">
+            <div class="carousel">
+                <img src="./Images/maison_de_luxe.PNG" width="954px" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000" class="mdl">
+                <img src="./Images/Jeu.PNG" alt="" height="400px" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000" class="jeu">
+                <img src="./Images/calculatrice.PNG" alt="" height="400px" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="1000" class="calc">
+            </div>
         </div>
-
 
         <div id="form">
             <form method="post" data-aos="fade" data-aos-delay="300" data-aos-duration="1000">
@@ -160,6 +155,7 @@
                         </div>
 
                         <textarea placeholder="Un commentaire ?" id="" cols="20" rows="8" class="text" name="comments" required></textarea>
+                    
                     </div>
 
                     
@@ -188,16 +184,10 @@
 
         <ul class="foot_list">
             <li class="foot_title"><h4>Mon CV</h4></li>
-            <li><a href="./Assets/NewCV.pdf"><img src="./Images/icone_CV.png" alt="Mon CV" class="foot_logo"></a></li>
+            <li><a href="./Assets/CV.pdf"><img src="./Images/icone_CV.png" alt="Mon CV" class="foot_logo"></a></li>
         </ul>
     </footer>
-
-    <!-- Circle -->
-    <div class="cursor" id="cursor" ></div>
-    <div class="cursor2" id="cursor2" ></div>
-    
     <!-- Script JS -->
     <script>AOS.init();</script>
-    <script src="./scriptCursor.js"></script>
 </body>
 </html>
